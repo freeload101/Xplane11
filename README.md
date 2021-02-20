@@ -15,22 +15,30 @@ This repo is dedicated to xplane plugin automation!
 * automate common plugin installs (traffic / lighting / models/planes etc)
 
 
-Models:
-ZIBO 737-800
-Ultimate 737-700
-Ultimate 737-900
-Flight Factor B777-200LR 
-Default B747-400 ??? 
+*Models:
+* ZIBO 737-800
+* Ultimate 737-700
+* Ultimate 737-900
+* Flight Factor B777-200LR 
+* Default B747-400 ??? 
 
-Utilities:
-LiveTraffic 
+*Utilities:
+* LiveTraffic 
 
 
-Todo?:
-FlyWithLua ?
-Zibo 737-800x
-Headshake
-Vivid Sky
-Airport Environment HD
-Terrain Radar
-Avitab
+*Todo?:
+* FlyWithLua ?
+* Zibo 737-800x
+* Headshake
+* Vivid Sky
+* Airport Environment HD
+* Terrain Radar
+* Avitab
+
+
+* VFR Photo Scenery
+* Aerosoft MegaAirports
+* XTraffic
+* XPFlightplanner
+* XSquawkBox
+
