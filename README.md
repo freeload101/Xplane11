@@ -49,7 +49,7 @@ This repo is dedicated to xplane plugin automation!
 
 * betterpushback
 * betterpushbackc ?!? (not working for my build )
-
+* http://www.xsquawkbox.net/xpsdk/mediawiki/DataRefEditor 
 *Things to learn
 
 * stab trim
