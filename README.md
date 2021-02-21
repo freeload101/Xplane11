@@ -16,7 +16,7 @@ This repo is dedicated to xplane plugin automation!
 
 
 *Models:
-* ZIBO 737-800
+* ZIBO 737-800 https://drive.google.com/file/d/1v-mBJ92EpV5sDPbH4s-T4EYmL2WQsZJf/view?usp=sharing
 * Ultimate 737-700
 * Ultimate 737-900
 * Flight Factor B777-200LR 
