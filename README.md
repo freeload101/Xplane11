@@ -42,3 +42,13 @@ This repo is dedicated to xplane plugin automation!
 * XPFlightplanner
 * XSquawkBox
 
+* x-vision.pro 
+* FlyWithLua
+
+* betterpushback
+* betterpushbackc ?!? (not working for my build )
+
+*Things to learn
+
+* stab trim
+* inop
