@@ -26,7 +26,9 @@ This repo is dedicated to xplane plugin automation!
 * LiveTraffic 
 
 
-*Todo?:
+*Todo Plugins?:
+
+* Autogate
 * FlyWithLua ?
 * Zibo 737-800x
 * Headshake
