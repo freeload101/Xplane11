@@ -55,7 +55,7 @@ This repo is dedicated to xplane plugin automation!
 * SomCoders
 * Terrain Radar
 
-
+https://www.reddit.com/r/flightsim/comments/7tbcsh/shoutoutreview_forkboy2s_orthophotos/ ?
 
 *Things to learn
 
