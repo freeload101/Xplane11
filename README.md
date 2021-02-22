@@ -61,3 +61,6 @@ https://www.reddit.com/r/flightsim/comments/7tbcsh/shoutoutreview_forkboy2s_orth
 
 * stab trim
 * inop
+
+
+* GPU/CPU tune https://www.x-plane.com/manuals/desktop/#settingtherenderingoptionsforbestperformance 
