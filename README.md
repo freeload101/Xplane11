@@ -70,7 +70,7 @@ https://www.reddit.com/r/flightsim/comments/7tbcsh/shoutoutreview_forkboy2s_orth
 
 * reset FMC by setting a new origin 
 * save views CTRL+NUMBERPAD recall NUMBERPAD      
-* scenery ini http://www.pterosaur.org.uk/Xplane10/Setup/Problem_Solving/Problems.html 
+* Scenery ini http://www.pterosaur.org.uk/Xplane10/Setup/Problem_Solving/Problems.html 
 * This file order is:
 
    All add on airports at the top of the list (Important)
