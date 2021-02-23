@@ -69,3 +69,4 @@ https://www.reddit.com/r/flightsim/comments/7tbcsh/shoutoutreview_forkboy2s_orth
 *Help/FAQ:*
 
 * reset FMC by setting a new origin 
+* save views CTRL+NUMBERPAD recall NUMBERPAD      
