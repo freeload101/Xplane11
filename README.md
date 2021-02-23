@@ -2,7 +2,7 @@
 This repo is dedicated to xplane plugin automation!
 
 
-*logic:
+*logic:*
 
 
 * check for admin
@@ -15,18 +15,18 @@ This repo is dedicated to xplane plugin automation!
 * automate common plugin installs (traffic / lighting / models/planes etc)
 
 
-*Models:
+*Models:*
 * ZIBO 737-800 https://drive.google.com/file/d/1v-mBJ92EpV5sDPbH4s-T4EYmL2WQsZJf/view?usp=sharing
 * Ultimate 737-700
 * Ultimate 737-900
 * Flight Factor B777-200LR 
 * Default B747-400 ??? 
 
-*Utilities:
+*Utilities:*
 * LiveTraffic 
 
 
-*Todo Plugins?:
+*Todo Plugins?:*
 
 * Autogate
 * FlyWithLua ?
@@ -57,10 +57,15 @@ This repo is dedicated to xplane plugin automation!
 
 https://www.reddit.com/r/flightsim/comments/7tbcsh/shoutoutreview_forkboy2s_orthophotos/ ?
 
-*Things to learn
+*Things to learn*
 
 * stab trim
 * inop
 
 
 * GPU/CPU tune https://www.x-plane.com/manuals/desktop/#settingtherenderingoptionsforbestperformance 
+
+
+*Help/FAQ:*
+
+* reset FMC by setting a new origin 
