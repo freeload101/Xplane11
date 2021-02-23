@@ -70,3 +70,21 @@ https://www.reddit.com/r/flightsim/comments/7tbcsh/shoutoutreview_forkboy2s_orth
 
 * reset FMC by setting a new origin 
 * save views CTRL+NUMBERPAD recall NUMBERPAD      
+* scenery ini http://www.pterosaur.org.uk/Xplane10/Setup/Problem_Solving/Problems.html 
+* This file order is:
+
+   All add on airports at the top of the list (Important)
+   
+        Aerosoft default airports (Do Not rename)
+        
+        Demo Airports (Do Not rename)
+        
+        Global airports (Do Not rename - Keep below ALL airports)
+        
+             Library files (Can be anywhere, but I put them below airports)
+             
+             Landscape scenery files (Keep below the airports they may affect)
+            
+                   Ortho (Below all airports)
+                   
+                    Mesh (Below ortho)
