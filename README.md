@@ -57,6 +57,8 @@ This repo is dedicated to xplane plugin automation!
 
 https://www.reddit.com/r/flightsim/comments/7tbcsh/shoutoutreview_forkboy2s_orthophotos/ ?
 
+* https://forums.x-plane.org/index.php?/files/file/43314-webfmc/ 
+
 *Things to learn*
 
 * stab trim
