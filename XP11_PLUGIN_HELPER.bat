@@ -2,11 +2,6 @@ REM @echo off
 
 
 
-REM choco install jdk8 -y --force
-REM choco install vcredist2017 -y --force
-REM choco install python -y --force
-REM choco install 7zip -y --force
- 
 
 
 CALL :INIT
@@ -141,12 +136,18 @@ EXIT /B %ERRORLEVEL%
 
 
 :DLPYTHON
+REM Not needed because we have orthoXP binary...
 choco install python -y --force
+REM choco install jdk8 -y --force
+REM choco install vcredist2017 -y --force
+REM choco install python -y --force
+REM choco install 7zip -y --force
 )
 EXIT /B %ERRORLEVEL%
 
 
 :DLCHOCO
+REM Not currently needed by anything in this script
 SET DIR=%~dp0%
 
 ::download install.ps1
