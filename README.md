@@ -2,6 +2,13 @@
 This repo is dedicated to xplane plugin automation!
 
 
+*Scenery 
+Zhenhao Yang: https://forums.x-plane.org/index.php?/files/file/39173-atlanta-vfr/
+https://simheaven.com/simdownloads/x-america/
+https://forums.x-plane.org/index.php?/files/file/36327-us-orthophotos/ or https://verticalsims.com/vorthos/
+
+
+
 *logic:*
 
 
