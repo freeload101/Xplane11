@@ -186,6 +186,14 @@ move /y FAACIFP18  "%XPLANEPATH%Custom Data\earth_424.dat"
 if not exist "%XPLANEPATH%Custom Data\earth_424.dat" (
 echo %date% %time% ERROR: can't find "%XPLANEPATH%Custom Data\earth_424.dat"
 ) 
+
+if exist "%XPLANEPATH%\Aircraft\B737-800X\B738X_apt.dat" (
+echo %date% %time% INFO: Removing old Zibo dat files  
+del "%XPLANEPATH%\Aircraft\B737-800X\B738X_apt.dat"
+del "%XPLANEPATH%\Aircraft\B737-800X\B738X_gate.dat"
+del "%XPLANEPATH%\Aircraft\B737-800X\B738X_rnw.dat"
+)
+
 explorer "%XPLANEPATH%Custom Data\"
 EXIT /B %ERRORLEVEL%
 
