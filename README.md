@@ -1,6 +1,9 @@
 # Xplane11
 This repo is dedicated to xplane plugin automation!
 
+#VATSIM DOCS
+https://rmccurdy.com/.scripts/downloaded/VATSIM/TRAINING_CBT_ZAE_ZTL_BIBLE_S1_S2_20210402.zip
+
 
 *Scenery 
 Zhenhao Yang: https://forums.x-plane.org/index.php?/files/file/39173-atlanta-vfr/
