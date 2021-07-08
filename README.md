@@ -37,7 +37,7 @@ https://forums.x-plane.org/index.php?/files/file/36327-us-orthophotos/ or https:
 
 
 *Todo Plugins?:*
-
+* https://forums.x-plane.org/index.php?/files/file/50472-single-pilot-assistant-for-zibo-mod-737-800/&tab=reviews&sort=newest#review-81477
 * Autogate
 * FlyWithLua ?
 * Zibo 737-800x
